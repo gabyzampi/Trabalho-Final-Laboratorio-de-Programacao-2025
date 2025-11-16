@@ -1,0 +1,10 @@
+Teste 1: PUSH(10) = [10] -> OK
+Teste 2: PUSH(20) = [20, 10] -> OK
+Teste 3: TOP(0) = 20 -> OK
+Teste 4: POP(0) = 20 -> OK
+Teste 5: POP(0) = 10 -> OK
+Teste 6: ENQUEUE(5) = [5] -> OK
+Teste 7: ENQUEUE(8) = [5, 8] -> OK
+Teste 8: VISUALIZAR(0) = [5, 8] -> OK
+Teste 9: DEQUEUE(0) = 5 -> OK
+Teste 10: DEQUEUE(0) = 8 -> OK
